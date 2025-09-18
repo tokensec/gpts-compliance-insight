@@ -1,0 +1,7 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "python.analysis.extraPaths": [
+        "gci"
+    ],
+    "python.analysis.diagnosticMode": "workspace"
+}
