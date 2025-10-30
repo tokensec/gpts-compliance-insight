@@ -1,6 +1,6 @@
 ## 🧩 GPTs Compliance Insights (GCI)
 
-An open-source project led by Sharon Shama and developed by Gil Portnoy
+An open-source project led by Sharon Shama, Security researcher at Token Security, and developed by Gil Portnoy, Core team engineer at Token Security.
 
 ### 🔍 Overview
 
@@ -15,6 +15,8 @@ Leveraging OpenAI’s **Compliance API**, the tool automatically generates clear
 
 
 **Note**: This tool requires an **OpenAI Enterprise account** with access to the Compliance API. The Compliance API is not available for standard OpenAI accounts.
+
+While the GCI Tool enables users to discover custom GPTs in their environments, it is only showcasing one capability of what Token Security can provide for AI agent identity security. To learn more about Token Security: https://www.token.security.
 
 ## Prerequisites
 
