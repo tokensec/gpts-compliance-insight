@@ -1,8 +1,18 @@
-# GPTs Compliance Insights (GCI)
+**🧩 GPTs Compliance Insights (GCI)**
 
-Analyze and audit OpenAI GPT configurations for compliance, security risks, and data exposure using the OpenAI Compliance API.
+An open-source project led by Sharon Shama and developed by Gil Portnoy
 
-> **Note**: This tool requires an **OpenAI Enterprise account** with access to the Compliance API. The Compliance API is not available for standard OpenAI accounts.
+### 🔍 Overview
+
+**GPTs Compliance Insights (GCI)** is a CLI open-source tool built to help enterprises and developers maintain transparency and compliance across their custom GPTs.
+
+Leveraging OpenAI’s **Compliance API**, the tool automatically generates clear, concise, and structured reports about your GPT configurations, shared users, and linked files - enabling efficient auditing and risk assessment.
+
+![custome-crop.gif](attachment:fae226ff-56ae-426c-8535-0be9f6e64df3:custome-crop.gif)
+
+![risk-crop.gif](attachment:153aeeb4-d4a6-41be-86e9-fb7b66634a3a:risk-crop.gif)
+
+**Note**: This tool requires an **OpenAI Enterprise account** with access to the Compliance API. The Compliance API is not available for standard OpenAI accounts.
 
 ## Prerequisites
 
