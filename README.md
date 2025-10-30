@@ -8,7 +8,7 @@ An open-source project led by Sharon Shama and developed by Gil Portnoy
 
 Leveraging OpenAI’s **Compliance API**, the tool automatically generates clear, concise, and structured reports about your GPT configurations, shared users, and linked files - enabling efficient auditing and risk assessment.
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/1ec54c28-d3d4-4039-860f-4015e8a10290" alt="Custom Action Demo" width="45%">
   <img src="https://github.com/user-attachments/assets/5801965d-23df-42a4-a736-4cb68e1b9ba6" alt="Risk Scoring Demo" width="45%">
 </p>
