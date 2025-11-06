@@ -30,7 +30,7 @@ While the GCI Tool enables users to discover custom GPTs in their environments, 
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-org/gpts-compliance-insights.git
+git clone https://github.com/tokensec/gpts-compliance-insight.git
 cd gpts-compliance-insights
 ```
 
